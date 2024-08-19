@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esp Coder&#39;s House</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Esp Coder&#39;s House</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>EspCoder provides consulting and software developemnt services specializing in complex business processes.&#xA;Developed diverse systems from desktop applications that interacted with complex robotic manufacturing systems to an android-powered scan gun interacting with enterprise scale warehousing operations.&#xA;Member of team that transformed Idaho Bureau of Homeland Security into one of the top performing states as recognized by FEMA.&#xA;Building enterprise-grade systems transcends mere code. It’s a blend of teamwork, architectural insight, and a commitment to addressing multifaceted requirements.</description>
+    </item>
+  </channel>
+</rss>
