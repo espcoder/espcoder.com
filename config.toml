@@ -16,6 +16,7 @@ style = "github-dark"
 
 [params]
   author = "Esp Coder"
+  company = "Esp Coder, LLC"
   info = "Enterprise Application Developer"
   description = "The official home of EspCoder"
   keywords = "developer,enterprise,blog"

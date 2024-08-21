@@ -16,17 +16,18 @@ style = "github-dark"
 
 [params]
   author = "Esp Coder"
+  company = "Esp Coder, LLC"
   info = "Enterprise Application Developer"
   description = "The official home of EspCoder"
   keywords = "developer,enterprise,blog"
-  avatarurl = "https://1.gravatar.com/avatar/f814c0643d4d516bf7a9bb12cc6fbe644cbe420336af4bf93e6c99a6db5a6eef?size=256"
+  avatarurl = "https://gravatar.com/avatar/8310549041ec66e5e7fc55b396025f49"
   #gravatar = "espcoder@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2024
 
   enableTwemoji = true
 
@@ -53,7 +54,7 @@ style = "github-dark"
   name = "Twitter"
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/espcoder/"
+  url = "https://x.com/espcoder/"
 
 # Menu links
 [[menu.main]]
