@@ -1,5 +1,5 @@
 
-baseurl = "http://www.espcoder.com"
+baseurl = "https://espcoder.com"
 title = "Esp Coder's House"
 theme = "hugo-coder"
 languagecode = "en"
@@ -57,6 +57,11 @@ style = "github-dark"
   url = "https://x.com/espcoder/"
 
 # Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+
 [[menu.main]]
   name = "About"
   weight = 2
